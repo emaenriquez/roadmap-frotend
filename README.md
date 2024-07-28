@@ -14,7 +14,6 @@ El objetivo de este repositorio es documentar mi aprendizaje y desarrollo en el 
 La estructura del repositorio se organizará de acuerdo con las principales áreas y tecnologías cubiertas en el roadmap. Las carpetas y archivos se actualizarán regularmente a medida que avance a través del roadmap.
 
 ```
-/proyecto-frontend
     ├── README.md
     |── internet
     ├── html
@@ -74,9 +73,5 @@ Si tienes sugerencias o deseas contribuir a este proyecto, siéntete libre de ab
 - [roadmap.sh - Frontend Developer Roadmap](https://roadmap.sh/frontend)
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
-
-## Contacto
-
-Para cualquier consulta o sugerencia, puedes contactarme a través de [emaenriquez1985@gmail.com] o [https://github.com/emaenriquez].
 
 ---
