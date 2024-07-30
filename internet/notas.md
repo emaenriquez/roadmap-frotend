@@ -90,3 +90,13 @@ Al utilizar SSL/TLS para proteger la comunicación por Internet, hay algunos con
 
 # Que es HTTP?
 
+
+# nombre de un dominio 
+
+un localizador uniforme de recursos (URL) contiene el nombre de dominio de un sition asi como otra informacion incluido el protocolo y la ruta por ejemplo: 
+
+https://cloudflare.com/learning/
+
+cloudflare.com : es el nombre del dominio
+https: es el protocolo
+/learning/: es la ruta de la pagina 
